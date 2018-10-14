@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0f1194"],{"9ed6":function(n,e,t){"use strict";t.r(e);var u=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[n._v("\n  这是home页\n")])},i=[],l=t("2877"),o={},c=Object(l["a"])(o,u,i,!1,null,null,null);c.options.__file="index.vue";e["default"]=c.exports}}]);
+//# sourceMappingURL=chunk-2d0f1194.3fc3c316.js.map
